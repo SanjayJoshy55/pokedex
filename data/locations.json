@@ -1,0 +1,28 @@
+{
+    "gyms": {
+        "Rustboro Gym": "Rustboro City - Leader Roxanne (Rock Type)",
+        "Dewford Gym": "Dewford Town - Leader Brawly (Fighting Type)",
+        "Mauville Gym": "Mauville City - Leader Wattson (Electric Type)",
+        "Lavaridge Gym": "Lavaridge Town - Leader Flannery (Fire Type)",
+        "Petalburg Gym": "Petalburg City - Leader Norman (Normal Type)",
+        "Fortree Gym": "Fortree City - Leader Winona (Flying Type)",
+        "Mossdeep Gym": "Mossdeep City - Leaders Tate & Liza (Psychic Type)",
+        "Sootopolis Gym": "Sootopolis City - Leader Wallace (Water Type)"
+    },
+    "hms": {
+        "HM01 Cut": "Rustboro City (Cut Master's House)",
+        "HM02 Fly": "Route 119 (Rivals gives it to you)",
+        "HM03 Surf": "Petalburg City (Wally's Dad after Norman)",
+        "HM04 Strength": "Rusturf Tunnel (After clearing rocks)",
+        "HM05 Waterfall": "Sootopolis Gym (After defeating Wallace)",
+        "HM06 Rock Smash": "Mauville City (Wally's Uncle)",
+        "HM07 Dive": "Mossdeep City (Steven's House)"
+    },
+    "key_items": {
+        "Move Deleter": "Lilycove City (House east of Dept Store)",
+        "Name Rater": "Slateport City (North of Pokemon Center)",
+        "Super Rod": "Mossdeep City (Fisherman's house)",
+        "Good Rod": "Route 118",
+        "Old Rod": "Dewford Town"
+    }
+}

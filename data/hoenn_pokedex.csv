@@ -1,0 +1,13 @@
+id,name,types,sprite_url,location
+252,Treecko,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png,"Route 101"
+253,Grovyle,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png,"Evolve Treecko"
+254,Sceptile,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png,"Evolve Grovyle"
+255,Torchic,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png,"Route 101"
+256,Combusken,fire/fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png,"Evolve Torchic"
+257,Blaziken,fire/fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png,"Evolve Combusken"
+258,Mudkip,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png,"Route 101"
+259,Marshtomp,water/ground,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png,"Evolve Mudkip"
+260,Swampert,water/ground,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png,"Evolve Marshtomp"
+384,Rayquaza,dragon/flying,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png,"Sky Pillar"
+383,Groudon,ground,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png,"Cave of Origin (OR)"
+382,Kyogre,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png,"Cave of Origin (AS)"
